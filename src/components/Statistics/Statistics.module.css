@@ -1,0 +1,9 @@
+.item {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    font-size: 20px;
+    margin-bottom: 14px;
+    width: 350px;
+    text-decoration-style: dashed ;
+  }
